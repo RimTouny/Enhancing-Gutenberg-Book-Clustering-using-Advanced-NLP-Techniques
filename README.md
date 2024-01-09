@@ -77,7 +77,7 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
 
    - using Kappa Scorce
      > [!IMPORTANT]
-     > The method for calculating the Kappa Score has been uploaded in the document titled "Kappa Score.pdf".
+      > The method for calculating the Kappa Score has been uploaded in the document titled "Kappa Score.pdf".
 
      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/22e9c118-1f74-4e0e-916c-6d47fe8e721e)
 
