@@ -63,7 +63,7 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
 
    - Encoding
      
-3. **Modeling:**: For each technique of the above, these following models are trained and tested.
+3. **Modeling:** For each technique of the above, these following models are trained and tested.
    + K-Means
    + Expectation Maximization (EM)
    + Hierarchical clustering (Agglomerative) 
@@ -76,6 +76,8 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/c6d455cb-7886-4561-baa6-69f708083c83)
 
    - using Kappa Scorce
+     > [!IMPORTANT]
+     > The method for calculating the Kappa Score has been uploaded in the document titled "Kappa Score.pdf".
 
      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/22e9c118-1f74-4e0e-916c-6d47fe8e721e)
 
