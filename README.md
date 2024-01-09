@@ -58,7 +58,7 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
         * A vocabulary of known words.
         * A measure of the presence of known words.
      + Term Frequency - Inverse Document Frequency (TF-IDF):a technique to quantify words in a set of documents. We compute         a score for each word to signify its importance in the document and corpus.
-     + Latent Dirichlet Allocation (LDA)
+     + Latent Dirichlet Allocation (LDA): Perform topic modeling to extract latent topics from the text data. Each document is represented as a mixture of topics.
      + Word Embedding (Word2Vec)
 
 ![merge_from_ofoct](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/57f76f7b-13f6-4c18-8bfd-0e32a9207645)
