@@ -1,0 +1,2 @@
+# Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques
+Text clustering, an unsupervised ML technique in NLP, groups similar texts based on content. Techniques like hierarchical, k-means, or density-based clustering categorize unstructured data, unveiling insights and patterns in diverse datasets. This exploration was part of the NLP course in my University of Ottawa master's program in 2023.
