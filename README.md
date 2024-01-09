@@ -77,7 +77,7 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
 
      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/c6d455cb-7886-4561-baa6-69f708083c83)
 
-   - using Kappa Scorce
+   - using Kappa Score
      > [!IMPORTANT]
       > The method for calculating the Kappa Score has been uploaded in the document titled "Kappa Score.pdf".
 
@@ -90,7 +90,7 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
 
      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/ff17d2e0-4db0-4ae1-8806-268210550f78)
 
-   - on Kappa Scorce
+   - on Kappa Score
 
      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/b549c004-6b77-4885-b8ab-18b72bac1698)
 
@@ -107,7 +107,7 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
 
           ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/0e213fd6-a895-4ed3-b079-775386b605df)
 
-    + on Kappa Scorce
+    + on Kappa Score
 
       ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/57d7b3d8-717c-4cc7-93b6-54a584fc1dfc)
    
