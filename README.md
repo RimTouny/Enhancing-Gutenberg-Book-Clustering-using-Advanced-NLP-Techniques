@@ -3,6 +3,8 @@ Text clustering, an unsupervised ML technique in NLP, groups similar texts based
 
   - Required libraries: scikit-learn, pandas, matplotlib.
   - Execute cells in a Jupyter Notebook environment.
+  - The uploaded code has been executed and tested successfully within the [Google Colab](https://colab.google/) environment.
+
 
 ## Unsupervised Text Clustering problem 
 Text clustering involves grouping comparable texts based on content similarity, a crucial unsupervised technique.(chose 5 differnet books for 5 differnet author and genre)
