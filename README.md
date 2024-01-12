@@ -39,7 +39,9 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
       +  Lemmatization is the next step that reduces a word to its base form.
 
    - Data Partitioning: partition each book into 200 documents, each document is a 100 word record.
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/1ef28c48-fb0e-441f-940c-08b0f3edd2c3)
+    <p align="center">
+     <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/1ef28c48-fb0e-441f-940c-08b0f3edd2c3)"/>
+      </p>
 
 
    - Data labeling as follows:
@@ -72,51 +74,67 @@ selected_books=['austen-emma.txt','whitman-leaves.txt','milton-paradise.txt', 'm
 
 4. **Model Evaluation**
    - using Silhouette Score
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/2e7b641f-6d1c-4e2d-9893-a965c68dab27"/>
+      </p>
 
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/2e7b641f-6d1c-4e2d-9893-a965c68dab27)
-
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/c6d455cb-7886-4561-baa6-69f708083c83)
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/c6d455cb-7886-4561-baa6-69f708083c83"/>
+      </p>
 
    - using Kappa Score
      > [!IMPORTANT]
       > The method for calculating the Kappa Score has been uploaded in the document titled "Kappa Score.pdf".
 
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/22e9c118-1f74-4e0e-916c-6d47fe8e721e)
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/22e9c118-1f74-4e0e-916c-6d47fe8e721e"/>
+      </p>
 
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/a4f3b004-2186-4863-b8f6-e0873037d883)
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/a4f3b004-2186-4863-b8f6-e0873037d883"/>
+      </p>
 
 5. Champion Model
    - on Silhouette Score
-
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/ff17d2e0-4db0-4ae1-8806-268210550f78)
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/ff17d2e0-4db0-4ae1-8806-268210550f78)"/>
+      </p>
 
    - on Kappa Score
-
-     ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/b549c004-6b77-4885-b8ab-18b72bac1698)
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/b549c004-6b77-4885-b8ab-18b72bac1698"/>
+      </p>
 
 6. **Error Analysis of Champion Model**:
   - By reducing the number of clusters from 5 to 3
     + on Silhouette Score
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/83bc1841-0683-4202-8669-a07996f78e01)"/>
+      </p>
 
-       ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/83bc1841-0683-4202-8669-a07996f78e01)
-
-       ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/01dd9d40-0124-4176-833f-7504ee160aac)
+     <p align="center">
+      <img src="!https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/01dd9d40-0124-4176-833f-7504ee160aac)"/>
+      </p>
 
        
-        - Champion Model
-
-          ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/0e213fd6-a895-4ed3-b079-775386b605df)
+     - Champion Model
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/0e213fd6-a895-4ed3-b079-775386b605df)"/>
+      </p>
 
     + on Kappa Score
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/57d7b3d8-717c-4cc7-93b6-54a584fc1dfc)"/>
+      </p>
 
-      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/57d7b3d8-717c-4cc7-93b6-54a584fc1dfc)
-   
-      ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/46871156-3322-4591-9383-24aeb0b40134)
-
+    <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/46871156-3322-4591-9383-24aeb0b40134)"/>
+      </p>
 
        - Champion Model
-     
-         ![image](https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/3b0d6ee9-dbcc-4f0c-b66b-cf366505573e)
+     <p align="center">
+      <img src="https://github.com/RimTouny/Enhancing-Gutenberg-Book-Clustering-using-Advanced-NLP-Techniques/assets/48333870/3b0d6ee9-dbcc-4f0c-b66b-cf366505573e)"/>
+      </p>
 
 
 
